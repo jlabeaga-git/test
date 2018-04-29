@@ -1,4 +1,4 @@
-line 1 modified in master
+line 1 modified and conflict resolved
 line 2
 line 3
 line 4
